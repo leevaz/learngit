@@ -8,3 +8,5 @@ git ok?
 yes!
 
 git has mutable index called stage.
+
+git tracks changes.
